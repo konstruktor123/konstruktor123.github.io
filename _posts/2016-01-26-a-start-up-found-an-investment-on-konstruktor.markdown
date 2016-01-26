@@ -1,0 +1,6 @@
+---
+published: true
+title: A start-up found an investment on KONSTRUKTOR
+layout: post
+---
+One of the first projects that was using Konstruktor (https://konstruktor.com) to raise money, successfully closed its first round of funding. Agro-Horizon received investment from SecondWorkingDistrict, a London-based venture fund. SecondWorkingDistrict will partner with Agro-Horizon and assist the company with marketing, management and R&D. Now the company is steaming ahead to its goal of becoming an international company. It’s software is designed to optimize the everyday efforts of agricultural chemists and managers of agricultural enterprises. This software is currently used at more than fifteen companies. The company is negotiating to expand in five countries. The price is very attractive and the quality is quite high.Agro-Horizon may be installed on any computer and tablet, thus making it easy to access data and make the decision.We will continue to work on making it convenient for our clients tow work using our products.
